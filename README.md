@@ -36,3 +36,9 @@ Author
 Created by a beginner developer who is passionate about technology.
 
 Thank you for visiting my project! ⭐
+
+Project Goal
+
+The goal of this project is to learn programming, develop practical coding skills, explore open-source technologies, and create useful projects that can help others.
+
+I want to improve my knowledge of HTML, CSS, and JavaScript while sharing my learning journey with the community.
